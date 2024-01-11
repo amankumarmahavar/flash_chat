@@ -37,7 +37,7 @@ This app allows users to engage in real-time chat conversations using Firebase a
   flutter run
 ```
 ## Screenshots
-<img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat1.jpg" width="33%"/> <img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat2.jpg" width="33%"/>  <img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat3.jpg" width="32%"/> 
+<img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat1.jpg" width="32%"/> <img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat2.jpg" width="32%"/>  <img src="https://github.com/amankumarmahavar/flash_chat/blob/main/ss/flashchat3.jpg" width="32%"/> 
 
 ## Authors
 
